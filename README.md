@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Rock Paper Scissors
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Full Stack Projects
 - 💫 Hi 👋, I'm Tausif Alam
