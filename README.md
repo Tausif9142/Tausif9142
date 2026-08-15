@@ -36,11 +36,15 @@ Email Me 👉 ✉️ **tausifali07860@gmail.com** For Collaboration/Project or A
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tausif9142&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tausif9142&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Tausif9142&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tausif9142&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### 🏆 GitHub Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tausif9142&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
@@ -49,8 +53,9 @@ Email Me 👉 ✉️ **tausifali07860@gmail.com** For Collaboration/Project or A
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tausif9142&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tausif9142&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Tausif9142&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📅 Contribution Calendar
